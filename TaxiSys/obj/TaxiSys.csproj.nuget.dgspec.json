@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys\\TaxiSys.csproj": {}
+    "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys\\TaxiSys.csproj": {
+    "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys\\TaxiSys.csproj",
+        "projectUniqueName": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys.csproj",
         "projectName": "TaxiSys",
-        "projectPath": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys\\TaxiSys.csproj",
+        "projectPath": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys.csproj",
         "packagesPath": "C:\\Users\\DJMac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\TaxiSys\\obj\\",
+        "outputPath": "C:\\Users\\DJMac\\Downloads\\DJ_McCarthy_T00242943\\TaxiSys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DJMac\\AppData\\Roaming\\NuGet\\NuGet.Config",
