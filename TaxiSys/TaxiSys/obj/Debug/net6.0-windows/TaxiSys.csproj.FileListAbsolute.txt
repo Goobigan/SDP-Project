@@ -1,0 +1,408 @@
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\TaxiSys\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_1_1-29-2024\TaxiSys\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\T00242943\Downloads\OneDrive_1_1-31-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\T00242943\Downloads\OneDrive_1_1-31-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\T00242943\Downloads\OneDrive_1_1-31-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\T00242943\Downloads\OneDrive_1_1-31-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_1_2-6-2024\OneDrive_1_2-6-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDeleteSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriverUpdateSelect.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CopyComplete
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.Up2Date
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_1_3-11-2024\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.Up2Date
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\TaxiSys\OneDrive_1_3-11-2024\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.Up2Date
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-16\OneDrive_1_3-11-2024 (1)\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.exe
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.deps.json
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.runtimeconfig.json
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.AssemblyReference.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsOpen.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAccountsUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmAdminRevenueReport.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsBookTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCalculateCost.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsCancelTaxi.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmBookingsIssueReceipt.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversAdd.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversDelete.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmDriversUpdate.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.frmHomepage.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.Properties.Resources.resources
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.GenerateResource.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfoInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.AssemblyInfo.cs
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.CoreCompileInputs.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.csproj.Up2Date
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\refint\TaxiSys.dll
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.pdb
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\TaxiSys.genruntimeconfig.cache
+C:\Users\t00242943\Downloads\OneDrive_2024-04-17\TaxiSys (1)\TaxiSys\obj\Debug\net6.0-windows\ref\TaxiSys.dll
